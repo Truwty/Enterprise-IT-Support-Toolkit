@@ -167,5 +167,5 @@ EnterpriseITToolkit/
 ├── data/                   # SQLite DB storage (auto-generated)
 ├── logs/                   # Log files (auto-generated)
 └── exports/                # Exported reports and graphs (auto-generated)
-```#   E n t e r p r i s e - I T - S u p p o r t - T o o l k i t  
- 
+```# Enterprise-IT-Support-Toolkit
+
